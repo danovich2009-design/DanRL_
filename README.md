@@ -1,66 +1,63 @@
-# DanRL_
+```html
+<h1 align="center">DanRL_</h1>
 
-<p align="center">
-  <a href="https://github.com/danovich2009-design">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9f0922&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Dana" alt="Hello! I&#39;m Dana" />
+<h1 align="center">Hello! I'm Dana</h1>
+
+<hr>
+
+<h3>🚀 About Me</h3>
+
+<p>Self-taught Python enthusiast who loves reading, talking about stories and history, and playing video games. Passionate about learning new things and building small projects.</p>
+
+<ul>
+  <li>🔭 I'm currently working on <b>My web page</b></li>
+  <li>🌱 I'm currently learning <b>Python basics</b></li>
+  <li>👯 I'm looking to collaborate on <b>Everyone</b></li>
+  <li>😄 Pronouns: <b>She/Her</b></li>
+  <li>⚡ Fun fact: I like taking free courses.</li>
+</ul>
+
+<hr>
+
+<h3>🛠 Tech Stack</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+</p>
+
+<hr>
+
+<h3>🔗 Connect With Me</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://TU_USUARIO.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=655&height=44&lines=Python%20beginner%2C%20Web%20designer%2C%20autodidact" alt="Typing headlines" />
-</p>
+<hr>
 
-### 🚀 About Me
-
-Self-taught Python enthusiast who loves reading, talking about stories and history, and playing video games. Passionate about learning new things and building small projects.
-
-🔭 &nbsp;I'm currently working on **My web page!**  
-🌱 &nbsp;I'm currently learning **Python basics**  
-👯 &nbsp;I'm looking to collaborate on **Everyone**  
-😄 &nbsp;Pronouns: **She/Her**  
-⚡ &nbsp;Fun fact: **I like taking free courses.**
-
-### 🛠️ Tech Stack
+<h3>⚙️ GitHub Analytics</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages">
 </p>
 
-### 🔗 Connect With Me
+<hr>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/dana-isabella-rojas-leal-a44227423/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://mywebdana.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
-
-### ⚙️ &nbsp;GitHub Analytics
+<h3>🐍 A Snake Eating my Contributions Graph</h3>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
+```
 
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
+Recuerda: reemplaza cada `TU_USUARIO` por tu usuario real de GitHub, y guarda esto como `README.md` en un repo llamado igual que tu usuario.
