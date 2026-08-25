@@ -13,11 +13,11 @@
 <p>Self-taught Python enthusiast who loves reading, talking about stories and history, and playing video games. Passionate about learning new things and building small projects.</p>
 
 <ul>
-  <li>🔭 I'm currently working on <b>My web page</b></li>
-  <li>🌱 I'm currently learning <b>Python basics</b></li>
+  <li>🔭 I'm currently working on <b>My a history game</b></li>
+  <li>🌱 I'm currently learning <b>Python basics and HTML</b></li>
   <li>👯 I'm looking to collaborate on <b>Everyone</b></li>
   <li>😄 Pronouns: <b>She/Her</b></li>
-  <li>⚡ Fun fact: I like taking free courses.</li>
+  <li>⚡ Fun fact: I like taking free courses and learning new things</li>
 </ul>
 
 <hr>
