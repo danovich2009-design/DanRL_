@@ -34,15 +34,12 @@
 
 <hr>
 
-<h3>🔗 Connect With Me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/danovich2009" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-6D071A?style=for-the-badge&logo=linkedin&logoColor=F2E8DC" alt="LinkedIn">
-  </a>
-  <a href="https://danovich2009.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
-  </a>
+<a href="https://www.linkedin.com/in/danovich2009-design" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-6D071A?style=for-the-badge&logo=linkedin&logoColor=F2E8DC" alt="LinkedIn">
+</a>
+<a href="https://danovich2009-design.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
+</a>
 </p>
 
 <hr>
@@ -50,8 +47,8 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danovich2009&show_icons=true&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&icon_color=A83246&text_color=F2E8DC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danovich2009&layout=compact&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&text_color=F2E8DC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danovich2009-design&show_icons=true&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&icon_color=A83246&text_color=F2E8DC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danovich2009-design&layout=compact&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&text_color=F2E8DC" />
 </p>
 
 <hr>
@@ -59,4 +56,5 @@
 <h3>🐍 A Snake Eating my Contributions Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/danovich2009/danovich2009/output/github-c
+  <img src="https://raw.githubusercontent.com/danovich2009-design/danovich2009-design/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
