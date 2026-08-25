@@ -34,11 +34,11 @@
 
 <hr>
 
-<a href="https://www.linkedin.com/in/danovich2009-design" target="_blank">
+<a href="https://www.linkedin.com/in/dana-isabella-rojas-leal-a44227423/">
   <img src="https://img.shields.io/badge/LINKEDIN-6D071A?style=for-the-badge&logo=linkedin&logoColor=F2E8DC" alt="LinkedIn">
 </a>
 <a href="https://danovich2009-design.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
+  <img src="https://mywebpagedanrl.netlify.app" alt="Portfolio">
 </a>
 </p>
 
