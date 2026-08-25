@@ -39,6 +39,7 @@
 </a>
 <a href="https://danovich2009-design.github.io" target="_blank">
   <a href="https://mywebpagedanrl.netlify.app" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
 </a>
 </p>
 
