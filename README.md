@@ -47,8 +47,8 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanRL_&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRL_&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages">
 </p>
 
 <hr>
@@ -56,8 +56,6 @@
 <h3>🐍 A Snake Eating my Contributions Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/DanRL_/DanRL_/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
-```
 
-Recuerda: reemplaza cada `TU_USUARIO` por tu usuario real de GitHub, y guarda esto como `README.md` en un repo llamado igual que tu usuario.
