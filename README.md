@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D071A&height=200&section=header&text=Hello!%20I'm%20Dana&fontSize=50&fontColor=F2E8DC&animation=fadeIn&fontAlignY=38" />
+</p>
 
-<h1 align="center">DanRL_</h1>
-
-<h1 align="center">Hello! I'm Dana</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=A83246&center=true&vCenter=true&width=600&lines=Self-taught+Python+enthusiast;Equestrian+%F0%9F%90%8E+%7C+Gamer+%F0%9F%8E%AE;Always+learning+something+new" />
+</p>
 
 <hr>
 
@@ -22,11 +25,11 @@
 <h3>🛠 Tech Stack</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PYTHON-6D071A?style=for-the-badge&logo=python&logoColor=F2E8DC" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-6D071A?style=for-the-badge&logo=html5&logoColor=F2E8DC" alt="HTML5">
+  <img src="https://img.shields.io/badge/GIT-6D071A?style=for-the-badge&logo=git&logoColor=F2E8DC" alt="Git">
+  <img src="https://img.shields.io/badge/GITHUB-6D071A?style=for-the-badge&logo=github&logoColor=F2E8DC" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20CODE-6D071A?style=for-the-badge&logo=visual-studio-code&logoColor=F2E8DC" alt="VS Code">
 </p>
 
 <hr>
@@ -34,11 +37,11 @@
 <h3>🔗 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/DanRL_" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-6D071A?style=for-the-badge&logo=linkedin&logoColor=F2E8DC" alt="LinkedIn">
   </a>
-  <a href="https://TU_USUARIO.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  <a href="https://DanRL_.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
   </a>
 </p>
 
@@ -47,8 +50,8 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanRL_&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRL_&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanRL_&show_icons=true&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&icon_color=A83246&text_color=F2E8DC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRL_&layout=compact&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&text_color=F2E8DC" />
 </p>
 
 <hr>
@@ -59,3 +62,6 @@
   <img src="https://raw.githubusercontent.com/DanRL_/DanRL_/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D071A&height=100&section=footer" />
+</p>
