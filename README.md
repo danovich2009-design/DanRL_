@@ -37,10 +37,10 @@
 <h3>🔗 Connect With Me</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/DanRL_" target="_blank">
+  <a href="https://www.linkedin.com/in/danovich2009" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-6D071A?style=for-the-badge&logo=linkedin&logoColor=F2E8DC" alt="LinkedIn">
   </a>
-  <a href="https://DanRL_.github.io" target="_blank">
+  <a href="https://danovich2009.github.io" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-6D071A?style=for-the-badge&logo=googlechrome&logoColor=F2E8DC" alt="Portfolio">
   </a>
 </p>
@@ -50,20 +50,13 @@
 <h3>⚙️ GitHub Analytics</h3>
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanRL_&show_icons=true&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&icon_color=A83246&text_color=F2E8DC" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanRL_&layout=compact&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&text_color=F2E8DC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danovich2009&show_icons=true&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&icon_color=A83246&text_color=F2E8DC" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danovich2009&layout=compact&theme=dark&hide_border=true&bg_color=1A0A0A&title_color=A83246&text_color=F2E8DC" />
 </p>
 
 <hr>
 
-<a href="https://DanRL_.github.io/danovich2009/">this</a> out
-
 <h3>🐍 A Snake Eating my Contributions Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DanRL_/DanRL_/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6D071A&height=100&section=footer" />
-</p>
+  <img src="https://raw.githubusercontent.com/danovich2009/danovich2009/output/github-c
